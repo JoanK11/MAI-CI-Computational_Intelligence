@@ -1,0 +1,7 @@
+tsplib95
+tqdm
+pandas
+matplotlib
+seaborn
+statsmodels
+graphviz
